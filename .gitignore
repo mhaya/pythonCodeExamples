@@ -2,4 +2,5 @@
 keras/*.pkl
 keras/*.h5
 keras/.ipynb_checkpoints
-
+keras/merge
+keras/*.jpg
