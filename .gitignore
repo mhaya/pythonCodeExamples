@@ -1,6 +1,6 @@
 *~
 keras/*.pkl
 keras/*.h5
-keras/.ipynb_checkpoints
+*/.ipynb_checkpoints
 keras/merge
 keras/*.jpg
